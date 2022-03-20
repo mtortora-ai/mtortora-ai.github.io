@@ -19,7 +19,7 @@ nav: true
     <h6 class="font-italic mt-2 mt-sm-0">Spring 2021-2022: Assistant professor</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <p>
-      The main objective of the Fundamentals of Artificial Intelligence course is for students to acquire the basic concepts of Machine Learning (ML), which is the field of Computer Science that deals with the creation of systems and algorithms that rely on observations as data for the synthesis of new knowledge, which can result in automatic decisions or decision support systems.
+      It is an upper-division introduction to artificial intelligence. Throughout the course, I covered concepts ranging from data cleaning, decision tree, regression, support vector machine, feature selection and reinforcement learning. I designed homework and exams, and provided support to the students for the development of the final project.
       </p>
     </ul>
   </div>
@@ -36,7 +36,7 @@ nav: true
     <h6 class="font-italic mt-2 mt-sm-0">Winter 2021-2022: Assistant professor</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <p>
-      The course aims to teach students the fundamental principles and applications of Computer Vision (CV), i.e., the technologies at the heart of modern Artificial Intelligence (AI) applications that can perceive, understand and reconstruct the complex visual world and that are concerned with developing the set of processes that aim to create an approximate model of the real world from two-dimensional images.
+      It is an upper-division introduction to computer vision. Throughout the course, I covered concepts ranging from Hough transform, filters, morphological image processing and segmentation. I designed homework and exams, and provided support to the students for the development of the final project.
 
       </p>
     </ul>
@@ -55,7 +55,7 @@ nav: true
     <h6 class="font-italic mt-2 mt-sm-0">Spring 2021-2022: Professor</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <p>
-
+        It is an upper-division introduction to artificial intelligence, covering concepts ranging from search algorithms, action planning, treatment of uncertainty, fuzzy systems, reinforcement learning, and machine learning. I organised and taught the whole course and designed and assessed the homework and final exams.
       </p>
     </ul>
   </div>
@@ -72,7 +72,7 @@ nav: true
     <h6 class="font-italic mt-2 mt-sm-0">Winter 2021-2022: Assistant professor</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <p>
-
+      It is a course on software engineering in C++. I co-organized and taught the course, held regular office hours, and designed and graded homework.
       </p>
     </ul>
   </div>
@@ -84,13 +84,32 @@ nav: true
       <div class="col-sm-10">
         <h5 class="font-weight-bold">Fundamentals of Computer Science</h5>
       </div>
-
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Winter 2020-2021: Assistant professor</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <p>
-
+      It is a course on software engineering in C++. I co-organized and taught the course, held regular office hours, and designed and graded homework.
       </p>
     </ul>
+  </div>
+</div>
+
+
+
+<h3 class="mt-4">Research Mentorship</h3>
+
+<div class="card mt-3">
+  <div class="p-3">
+
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Master's Students</h5>
+      </div>
+    </div>
+
+    <ul class="card-text font-weight-light list-group list-group-flush">M. Mantegna (UCBM - 2021)
+      <h6 class="font-italic mt-2 mt-sm-0"> Toxicological analysis of radiation therapy for NSCLC through deep reinforcement learning </h6>
+    </ul>
+
   </div>
 </div>
