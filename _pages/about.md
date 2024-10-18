@@ -8,10 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p style="font-size: initial;"> Computer Systems & Bioinformatics Laboratory</p>
-    <p style="font-size: initial;"> Department of Engineering, University Campus Bio-Medico of Rome</p>
-    <p style="font-size: initial;"> Via Alvaro del Portillo 21</p>
-    <p style="font-size: initial;"> 00128 Rome, Italy</p>
+    <p style="font-size: initial;"> Department of Naval, Electrical, Electronics and  Telecommunications Engineering</p>
+    <p style="font-size: initial;"> University of Genoa</p>
+    <p style="font-size: initial;"> Via Opera Pia, 11A 16145</p>
+    <p style="font-size: initial;"> Genoa, Italy</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -20,9 +20,9 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome 👋!
 
-My name is Matteo Tortora. I am a PhD student in the Computer Systems & Bioinformatics Laboratory at Campus Bio-Medico of Rome.
-My PhD project is mainly focused on predictive maintenance on a fleet of vehicles.
+My name is Matteo Tortora. I am an Assistant Professor at University of Genoa.
+My PhD project was mainly focused on predictive maintenance on a fleet of vehicles.
 
 Prior to PhD, I received my bachelor’s degree in Industrial Engineering in 2017 and MSc degree in Biomedical Engineering  in 2020 both at Campus Bio-Medico of Rome.
 
-My research interests are Reinforcement Learning, Deep Learning, Computer Vision, and Multimodal Learning.
+My research interests are Reinforcement Learning, Computer Vision, Multimodal Learning, Generative AI.
